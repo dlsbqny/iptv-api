@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-01-08 06:11:43,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3$订阅源-IPv6-1920x1080
+2025-01-08 18:20:52,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 
 📺央视频道,#genre#
 CCTV-1,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3$订阅源-IPv6-1920x1080
@@ -551,6 +551,7 @@ CETV4,http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8$订阅
 黑龙江都市,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8$订阅源-IPv6-1920x1080
 黑龙江都市,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8$订阅源-IPv6-1920x1080
 黑龙江都市,http://[2409:8087:1a01:df::4025]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/1.m3u8$订阅源-IPv6-1920x1080
+黑龙江都市,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/1.m3u8$订阅源-IPv6-1920x1080
 黑龙江少儿,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8$订阅源-IPv6-1920x1080
 黑龙江少儿,http://[2409:8087:1a01:df::4049]:80/TVOD/88888888/224/3221225979/main.m3u8$订阅源-IPv6-1920x1080
 黑龙江少儿,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8?$订阅源-IPv6-1920x1080
@@ -564,9 +565,11 @@ CETV4,http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8$订阅
 黑龙江新闻,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8$订阅源-IPv6-1920x1080
 黑龙江新闻,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8$订阅源-IPv6-1920x1080
 黑龙江新闻,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8$订阅源-IPv6-1920x1080
+黑龙江新闻,http://[2409:8087:1a01:df::4036]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8$订阅源-IPv6-1920x1080
 黑龙江科教,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3$订阅源-IPv6-1920x1080
 黑龙江科教,http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8$订阅源-IPv6-1920x1080
 黑龙江科教,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8$订阅源-IPv6-1920x1080
+黑龙江科教,http://[2409:8087:1a01:df::4025]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8$订阅源-IPv6-1920x1080
 哈尔滨新闻综合,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8$订阅源-IPv6-1920x1080
 哈尔滨新闻综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8$订阅源-IPv6-1920x1080
 哈尔滨影视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?$订阅源-IPv6-1920x1080
