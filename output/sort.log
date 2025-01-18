@@ -3681,6 +3681,7 @@ Name: NewTV惊悚悬疑, URL: http://[2409:8087:74d9:21::6]:80/270000001128/9900
 Name: NewTV惊悚悬疑, URL: http://[2409:8087:74d6:22::7]:6410/270000001128/9900000113/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: NewTV惊悚悬疑, URL: http://[2409:8087:74d6:22::7]:6410/270000001128/9900000113/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000113$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: NewTV惊悚悬疑, URL: http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=YanG-1989$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
+Name: NewTV惊悚悬疑, URL: http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=YanG-1989$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: NewTV动作电影, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000018653/1.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: NewTV动作电影, URL: http://[2409:8087:74d9:21::6]/270000001128/9900000106/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: NewTV动作电影, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/8103864434730665389/1.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
